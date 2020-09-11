@@ -1,0 +1,39 @@
+.description{
+    background-image: url(../images/defaultimg.jpg);
+    color: black;
+    padding: 1rem;
+    height: 100vh;
+    background-size: cover;
+    text-align: left;
+    background-position: center center;
+    margin: auto;
+}
+.image{
+    width: 32px;
+    bottom: 0;
+    position: absolute;
+    text-align: center;
+}
+.description h1{
+    font-size: 3.5rem;
+}
+
+.description button{
+    padding: .8rem;
+    background-color: black;
+    outline: none;
+    font-weight: bold;
+    width: 9rem;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+@media(min-width: 700px){
+    .description{
+        text-align: center;
+    }
+    .description h1{
+        padding-top: 10rem;
+        }
+}

@@ -1,0 +1,45 @@
+.backgrnd{
+    background-image: url(../images/defaultimg.jpg);
+}
+.Clear{
+    background-image: url(../images/Clear.jpg);
+}
+.Snow{
+    background-image: url(../images/Snow.jpg);
+}
+.Clouds{
+    background-image: url(../images/Clouds.jpg);
+}
+.Drizzle{
+    background-image: url(../images/Drizzling.jpg);
+}
+.Fog{
+    background-image: url(../images/Fog.jpg);
+}
+.Haze{
+    background-image: url(../images/Haze.jpg);
+}
+.Mist{
+    background-image: url(../images/Mist.jpg);
+}
+.Rain{
+    background-image: url(../images/Rain.jpg);
+}
+.Smoke{
+    background-image: url(../images/Smoke.jpg);
+}
+.Squall{
+    background-image: url(../images/Squall.jpg);
+}
+.Thunderstorm{
+    background-image: url(../images/Thunderstorm.jpg);
+}
+.Tornado{
+    background-image: url(../images/Tornado.jpg);
+}
+.image{
+    width: 32px;
+    bottom: 0;
+    position: absolute;
+    margin-bottom: 20px;
+}

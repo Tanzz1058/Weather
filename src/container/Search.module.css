@@ -1,0 +1,25 @@
+.search{
+    padding-top: 10%;
+}
+.input{
+    opacity: .5;
+    outline: none;
+    border-radius: .3rem;
+    font-size: 1rem;
+    border-color: black;
+    width: 60%;
+    padding: .8rem;
+    align-items: center;
+    color: black;
+}
+.button{
+    opacity: .5;
+    outline: none;
+    border-color: black;
+    padding: .8rem;
+    border-radius: .3rem;
+}
+.button:hover{
+  opacity: 1;
+  cursor: pointer
+}
